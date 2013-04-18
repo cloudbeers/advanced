@@ -1,0 +1,16 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.cloudbeers</groupId>
+        <artifactId>advanced-parent</artifactId>
+        <version>0.1-SNAPSHOT</version>
+    </parent>
+    <artifactId>advanced-sibling</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>org.cloudbeers</groupId>
+            <artifactId>advanced-child</artifactId>
+            <version>0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+</project>
