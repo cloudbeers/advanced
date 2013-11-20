@@ -1,6 +1,11 @@
 advanced
 ========
 
+Environments
+------------
+
+ * `linux`
+ * `unix`
 
 Build
 -----
