@@ -1,4 +1,4 @@
 advanced
 ========
 
-with SQS
+with SQS and fancys
